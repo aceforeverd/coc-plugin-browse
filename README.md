@@ -1,9 +1,8 @@
 # plugin-browse
 
-open plugin home page with plugin name in vimrc
+open plugin home page (at GitHub) with plugin name in vimrc
 
 ## Install
-
 `:CocInstall plugin-browse`
 
 ## Keymaps
